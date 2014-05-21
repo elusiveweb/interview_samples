@@ -1,11 +1,11 @@
 Interview Samples
 =================
 
-#Overview
+##Overview
 This repository contains several code samples created by Roger Soucy (no additional developers were involved).
 The code samples found here are for review purposes only, and are not to be included in projects or distributed without permission.
 
-##Note:
+###Note:
 Most of the code samples here are part of larger projects and will have dependencies that will prevent them from running alone.
 If a fully functioning code sample is required, please request this directly from roger.soucy@elusive-concepts.com
 
